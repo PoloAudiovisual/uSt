@@ -15,8 +15,3 @@ Hardware: This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 By: Kevin Olivella (kev.olivella@gmail.com)
-
-Guidelines for derivative works
-===============================
-
-**Olivella Modular is a registered trademark, so don't fucking use it.**
