@@ -1,4 +1,4 @@
-Front panel, gerbers, BOM and schematics for **[μSt](https://www.modulargrid.net/e/other-unknown-%CE%BCst), an Eurorack synthesizer module from [Olivella Modular](https://www.olivellamodular.com/)**.
+Front panel, gerbers, BOM and schematics for **[μSt](https://www.olivellamodular.com/ust.html), an Eurorack synthesizer module from [Olivella Modular](https://www.olivellamodular.com/)**.
 
 Based on [Nearness](https://github.com/sarnesjo/nearness), by Jesper Särnesjö. Through-hole remix by Kevin Olivella.
 
